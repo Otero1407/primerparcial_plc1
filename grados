@@ -1,0 +1,5 @@
+c=float(input("inserte grados en celsius"))
+f=(c*9/5)+32
+k=c+273.15
+print(los grados en farenheit son, f)
+print(los grados en kelvin son, k)
